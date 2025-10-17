@@ -1,0 +1,107 @@
+*{
+    height: 100%;
+     
+}
+
+ #para{
+   font-family: cursive;
+    
+    background: url(boy-9117346_1280.jpg);
+    height: 100%;
+     background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+
+ }
+
+ .full{
+    
+   color: rgb(39, 159, 43);
+   font: bold;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+ }
+
+ .none{
+   background: url(gifts-8374060_1280.png);
+   height: 100%;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+ }
+
+ .doll{
+   font-family: cursive;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(223, 79, 60);
+    
+ }
+
+ .llax{
+
+    background: url(cat-3643705_1280.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
+ .x{
+   color: rgb(127, 123, 105);
+   font-family: cursive;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ }
+
+ .end{
+   background: url(mountains-9812916_1280.jpg);
+   height: 100%;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+ }
+
+ .set{
+   color: aliceblue;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-family: cursive;
+ }
+
+ @media only-screen and (max-device-width: 1366px){
+    #para{
+        background-attachment: scroll;
+    }
+    
+ }
+
+ @media only-screen and (max-device-width: 1366px){
+    .none{
+        background-attachment: scroll;
+    }
+    
+ }
+
+ @media only-screen and (max-device-width: 1366px){
+    .llax{
+        background-attachment: scroll;
+    }
+    
+ }
