@@ -105,3 +105,10 @@
     }
     
  }
+
+  @media only-screen and (max-device-width: 1366px){
+    .end{
+        background-attachment: scroll;
+    }
+    
+ }
